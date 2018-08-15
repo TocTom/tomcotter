@@ -1,1 +1,1 @@
-{"data":{"allSitePage":{"totalCount":6,"edges":[{"node":{"path":"/test-blog/"}},{"node":{"path":"/blog/i-love-cats/"}},{"node":{"path":"/"}},{"node":{"path":"/new-page/"}},{"node":{"path":"/blog//test-blog/"}},{"node":{"path":"/blog/test-blog/"}}]}},"pathContext":{}}
+{"data":{"allSitePage":{"totalCount":4,"edges":[{"node":{"path":"/blog/test-blog/"}},{"node":{"path":"/blog/i-love-cats/"}},{"node":{"path":"/"}},{"node":{"path":"/new-page/"}}]}},"pathContext":{}}

@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5f5a003c785acb14ced8d5f7503eedbb",
+        "contentDigest": "4d527aa79291c5a3e70c4be2e96d26c0",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -1132,20 +1132,19 @@
     },
     "Site": {
       "siteMetadata": {
-        "title": "Gatsby Starter - Dimension by HTML5 UP",
+        "title": "Tom Cotter",
         "author": "Hunter Chang",
-        "description": "A Gatsby.js Starter based on Dimension by HTML5 UP"
+        "description": "This is my personal website that I have built using a Gatsby.js Starter based on Dimension by HTML5 UP"
       },
       "port": "8000",
       "host": "localhost",
-      "pathPrefix": "",
-      "polyfill": true,
-      "buildTime": "2018-08-15T10:00:51.587Z",
+      "pathPrefix": "/",
+      "buildTime": "2018-08-15T10:10:34.333Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "fa9c0093bb252820a4aa3ff0769782c4",
+        "contentDigest": "040298161d8a0864914a3b08492d5223",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1155,7 +1154,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b445ccc6a3b318594cc0f18efff9d9a7",
+        "contentDigest": "6feb06dd67ffd86bae6e7ed5db0a2f4d",
         "type": "Directory",
         "description": "Directory \"src/posts\"",
         "owner": "gatsby-source-filesystem"
@@ -1166,10 +1165,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2018-08-15T09:58:12.944Z",
-      "accessTime": "2018-08-15T09:58:13.100Z",
-      "changeTime": "2018-08-15T09:58:12.944Z",
-      "birthTime": "2018-08-15T09:58:12.944Z",
+      "modifiedTime": "2018-08-15T10:08:35.014Z",
+      "accessTime": "2018-08-15T10:08:35.018Z",
+      "changeTime": "2018-08-15T10:08:35.014Z",
+      "birthTime": "2018-08-15T10:08:35.014Z",
       "root": "/",
       "dir": "/home/lachlan/Projects/tomcotter/src",
       "base": "posts",
@@ -1185,14 +1184,14 @@
       "blksize": 4096,
       "ino": 15467080,
       "blocks": 8,
-      "atimeMs": 1534327093099.8428,
-      "mtimeMs": 1534327092943.8425,
-      "ctimeMs": 1534327092943.8425,
-      "birthtimeMs": 1534327092943.8425,
-      "atime": "2018-08-15T09:58:13.100Z",
-      "mtime": "2018-08-15T09:58:12.944Z",
-      "ctime": "2018-08-15T09:58:12.944Z",
-      "birthtime": "2018-08-15T09:58:12.944Z"
+      "atimeMs": 1534327715017.9856,
+      "mtimeMs": 1534327715013.9856,
+      "ctimeMs": 1534327715013.9856,
+      "birthtimeMs": 1534327715013.9856,
+      "atime": "2018-08-15T10:08:35.018Z",
+      "mtime": "2018-08-15T10:08:35.014Z",
+      "ctime": "2018-08-15T10:08:35.014Z",
+      "birthtime": "2018-08-15T10:08:35.014Z"
     },
     "/home/lachlan/Projects/tomcotter/src/images absPath of file": {
       "id": "/home/lachlan/Projects/tomcotter/src/images absPath of file",
@@ -1528,7 +1527,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "276cd4a92ba14de521b0db8c9b8662b8",
+        "contentDigest": "892544bbe09a976794c459315c34e2f4",
         "type": "Directory",
         "description": "Directory \"src/posts/test-blog\"",
         "owner": "gatsby-source-filesystem"
@@ -1539,10 +1538,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2018-08-15T09:55:14.500Z",
-      "accessTime": "2018-08-15T09:55:14.540Z",
-      "changeTime": "2018-08-15T09:55:14.500Z",
-      "birthTime": "2018-08-15T09:55:14.500Z",
+      "modifiedTime": "2018-08-15T10:08:35.014Z",
+      "accessTime": "2018-08-15T10:08:35.018Z",
+      "changeTime": "2018-08-15T10:08:35.014Z",
+      "birthTime": "2018-08-15T10:08:35.014Z",
       "root": "/",
       "dir": "/home/lachlan/Projects/tomcotter/src/posts",
       "base": "test-blog",
@@ -1550,22 +1549,22 @@
       "name": "test-blog",
       "relativeDirectory": "",
       "dev": 66306,
-      "mode": 16893,
+      "mode": 16877,
       "nlink": 2,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 15467098,
+      "ino": 15467100,
       "blocks": 8,
-      "atimeMs": 1534326914539.8013,
-      "mtimeMs": 1534326914499.8013,
-      "ctimeMs": 1534326914499.8013,
-      "birthtimeMs": 1534326914499.8013,
-      "atime": "2018-08-15T09:55:14.540Z",
-      "mtime": "2018-08-15T09:55:14.500Z",
-      "ctime": "2018-08-15T09:55:14.500Z",
-      "birthtime": "2018-08-15T09:55:14.500Z"
+      "atimeMs": 1534327715017.9856,
+      "mtimeMs": 1534327715013.9856,
+      "ctimeMs": 1534327715013.9856,
+      "birthtimeMs": 1534327715013.9856,
+      "atime": "2018-08-15T10:08:35.018Z",
+      "mtime": "2018-08-15T10:08:35.014Z",
+      "ctime": "2018-08-15T10:08:35.014Z",
+      "birthtime": "2018-08-15T10:08:35.014Z"
     },
     "/home/lachlan/Projects/tomcotter/src/posts/test-blog/index.md absPath of file": {
       "id": "/home/lachlan/Projects/tomcotter/src/posts/test-blog/index.md absPath of file",
@@ -1619,7 +1618,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b898d84ffe4f40cee7d0e5250fa6d84f",
+        "contentDigest": "ccb14296838b477cd7d56aed43e48d8b",
         "type": "Directory",
         "description": "Directory \"src/posts/i-love-cats\"",
         "owner": "gatsby-source-filesystem"
@@ -1630,10 +1629,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2018-08-15T09:58:17.532Z",
-      "accessTime": "2018-08-15T09:58:17.704Z",
-      "changeTime": "2018-08-15T09:58:17.532Z",
-      "birthTime": "2018-08-15T09:58:17.532Z",
+      "modifiedTime": "2018-08-15T10:08:35.014Z",
+      "accessTime": "2018-08-15T10:08:35.018Z",
+      "changeTime": "2018-08-15T10:08:35.014Z",
+      "birthTime": "2018-08-15T10:08:35.014Z",
       "root": "/",
       "dir": "/home/lachlan/Projects/tomcotter/src/posts",
       "base": "i-love-cats",
@@ -1641,22 +1640,22 @@
       "name": "i-love-cats",
       "relativeDirectory": "",
       "dev": 66306,
-      "mode": 16893,
+      "mode": 16877,
       "nlink": 2,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 15467100,
+      "ino": 15467098,
       "blocks": 8,
-      "atimeMs": 1534327097703.8486,
-      "mtimeMs": 1534327097531.8484,
-      "ctimeMs": 1534327097531.8484,
-      "birthtimeMs": 1534327097531.8484,
-      "atime": "2018-08-15T09:58:17.704Z",
-      "mtime": "2018-08-15T09:58:17.532Z",
-      "ctime": "2018-08-15T09:58:17.532Z",
-      "birthtime": "2018-08-15T09:58:17.532Z"
+      "atimeMs": 1534327715017.9856,
+      "mtimeMs": 1534327715013.9856,
+      "ctimeMs": 1534327715013.9856,
+      "birthtimeMs": 1534327715013.9856,
+      "atime": "2018-08-15T10:08:35.018Z",
+      "mtime": "2018-08-15T10:08:35.014Z",
+      "ctime": "2018-08-15T10:08:35.014Z",
+      "birthtime": "2018-08-15T10:08:35.014Z"
     },
     "/home/lachlan/Projects/tomcotter/src/posts/i-love-cats/index.md absPath of file": {
       "id": "/home/lachlan/Projects/tomcotter/src/posts/i-love-cats/index.md absPath of file",
@@ -1705,111 +1704,6 @@
       "ctime": "2018-08-15T10:04:04.673Z",
       "birthtime": "2018-08-15T10:04:04.673Z"
     },
-    "SitePage /test-blog/": {
-      "layout": "index",
-      "jsonName": "test-blog.json",
-      "internalComponentName": "ComponentTestBlog",
-      "path": "/test-blog/",
-      "component": "/home/lachlan/Projects/tomcotter/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/lachlan/Projects/tomcotter/src/templates/blog-post.js",
-      "id": "SitePage /test-blog/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "0dc64c4bd47b96c7658f6a501fc1745a",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/i-love-cats/": {
-      "layout": "index",
-      "jsonName": "blog-i-love-cats.json",
-      "internalComponentName": "ComponentBlogILoveCats",
-      "path": "/blog/i-love-cats/",
-      "component": "/home/lachlan/Projects/tomcotter/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/lachlan/Projects/tomcotter/src/templates/blog-post.js",
-      "id": "SitePage /blog/i-love-cats/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "302a5ed511a4d3cfbda5b256ab6c041c",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/home/lachlan/Projects/tomcotter/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/home/lachlan/Projects/tomcotter/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "86565dfba53fef6434663ad69884ea49",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /new-page/": {
-      "layout": "index",
-      "jsonName": "new-page.json",
-      "internalComponentName": "ComponentNewPage",
-      "path": "/new-page/",
-      "component": "/home/lachlan/Projects/tomcotter/src/pages/new-page.js",
-      "componentChunkName": "component---src-pages-new-page-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/home/lachlan/Projects/tomcotter/src/pages/new-page.js",
-      "id": "SitePage /new-page/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f769ff474ada2b284ca4791fb421398a",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog//test-blog/": {
-      "layout": "index",
-      "jsonName": "blog-test-blog.json",
-      "internalComponentName": "ComponentBlogTestBlog",
-      "path": "/blog//test-blog/",
-      "component": "/home/lachlan/Projects/tomcotter/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/lachlan/Projects/tomcotter/src/templates/blog-post.js",
-      "id": "SitePage /blog//test-blog/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "11ddfa3192f60c0cecd79d9a7007f2e5",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
     "/home/lachlan/Projects/tomcotter/src/posts/test-blog/index.md absPath of file >>> MarkdownRemark": {
       "id": "/home/lachlan/Projects/tomcotter/src/posts/test-blog/index.md absPath of file >>> MarkdownRemark",
       "children": [],
@@ -1831,27 +1725,6 @@
       "rawMarkdownBody": "\nWow! I love blogging so much already.\n\nDid you know that \"despite its name, salted duck eggs can also be made from chicken eggs, though the taste and texture will be somewhat different, and the egg yolk will be less rich.\"? ([Wikipedia Link](http://en.wikipedia.org/wiki/Salted_duck_egg))\n\nYeah, I didn't either.\n",
       "fileAbsolutePath": "/home/lachlan/Projects/tomcotter/src/posts/test-blog/index.md"
     },
-    "SitePage /blog/test-blog/": {
-      "layout": "index",
-      "jsonName": "blog-test-blog.json",
-      "internalComponentName": "ComponentBlogTestBlog",
-      "path": "/blog/test-blog/",
-      "component": "/home/lachlan/Projects/tomcotter/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/lachlan/Projects/tomcotter/src/templates/blog-post.js",
-      "id": "SitePage /blog/test-blog/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "40b6bd09cf8b2d23dfb3be3b1ffbc202",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
     "/home/lachlan/Projects/tomcotter/src/posts/i-love-cats/index.md absPath of file >>> MarkdownRemark": {
       "id": "/home/lachlan/Projects/tomcotter/src/posts/i-love-cats/index.md absPath of file >>> MarkdownRemark",
       "children": [],
@@ -1872,6 +1745,90 @@
       "excerpt": "",
       "rawMarkdownBody": "\n![Cute Cat Photo](https://i.imgur.com/QnkFrG3.gif)",
       "fileAbsolutePath": "/home/lachlan/Projects/tomcotter/src/posts/i-love-cats/index.md"
+    },
+    "SitePage /blog/test-blog/": {
+      "layout": "index",
+      "jsonName": "blog-test-blog.json",
+      "internalComponentName": "ComponentBlogTestBlog",
+      "path": "/blog/test-blog/",
+      "component": "/home/lachlan/Projects/tomcotter/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/lachlan/Projects/tomcotter/src/templates/blog-post.js",
+      "id": "SitePage /blog/test-blog/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "62e73ef324ec823e81526b06a93b4766",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/i-love-cats/": {
+      "layout": "index",
+      "jsonName": "blog-i-love-cats.json",
+      "internalComponentName": "ComponentBlogILoveCats",
+      "path": "/blog/i-love-cats/",
+      "component": "/home/lachlan/Projects/tomcotter/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/lachlan/Projects/tomcotter/src/templates/blog-post.js",
+      "id": "SitePage /blog/i-love-cats/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "657501ac20eba35d2a11327cc4057bcd",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/home/lachlan/Projects/tomcotter/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/home/lachlan/Projects/tomcotter/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "eebcab921b8452e92d8127dcfb615b43",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /new-page/": {
+      "layout": "index",
+      "jsonName": "new-page.json",
+      "internalComponentName": "ComponentNewPage",
+      "path": "/new-page/",
+      "component": "/home/lachlan/Projects/tomcotter/src/pages/new-page.js",
+      "componentChunkName": "component---src-pages-new-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/home/lachlan/Projects/tomcotter/src/pages/new-page.js",
+      "id": "SitePage /new-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "823057dee59501f707d3858b9b8f9821",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
