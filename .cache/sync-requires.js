@@ -15,10 +15,11 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("/home/lachlan/Projects/tomcotter/.cache/json/layout-index.json"),
-  "hi-folks.json": require("/home/lachlan/Projects/tomcotter/.cache/json/hi-folks.json"),
-  "hello-world.json": require("/home/lachlan/Projects/tomcotter/.cache/json/hello-world.json"),
-  "my-second-post.json": require("/home/lachlan/Projects/tomcotter/.cache/json/my-second-post.json"),
+  "test-blog.json": require("/home/lachlan/Projects/tomcotter/.cache/json/test-blog.json"),
+  "blog-i-love-cats.json": require("/home/lachlan/Projects/tomcotter/.cache/json/blog-i-love-cats.json"),
   "dev-404-page.json": require("/home/lachlan/Projects/tomcotter/.cache/json/dev-404-page.json"),
   "index.json": require("/home/lachlan/Projects/tomcotter/.cache/json/index.json"),
-  "new-page.json": require("/home/lachlan/Projects/tomcotter/.cache/json/new-page.json")
+  "new-page.json": require("/home/lachlan/Projects/tomcotter/.cache/json/new-page.json"),
+  "blog-test-blog.json": require("/home/lachlan/Projects/tomcotter/.cache/json/blog-test-blog.json"),
+  "blog-test-blog.json": require("/home/lachlan/Projects/tomcotter/.cache/json/blog-test-blog.json")
 }

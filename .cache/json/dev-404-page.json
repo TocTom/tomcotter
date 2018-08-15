@@ -1,1 +1,1 @@
-{"data":{"allSitePage":{"totalCount":5,"edges":[{"node":{"path":"/hi-folks/"}},{"node":{"path":"/hello-world/"}},{"node":{"path":"/my-second-post/"}},{"node":{"path":"/"}},{"node":{"path":"/new-page/"}}]}},"pathContext":{}}
+{"data":{"allSitePage":{"totalCount":6,"edges":[{"node":{"path":"/test-blog/"}},{"node":{"path":"/blog/i-love-cats/"}},{"node":{"path":"/"}},{"node":{"path":"/new-page/"}},{"node":{"path":"/blog//test-blog/"}},{"node":{"path":"/blog/test-blog/"}}]}},"pathContext":{}}

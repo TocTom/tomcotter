@@ -3,22 +3,15 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "hi-folks.json",
-        "path": "/hi-folks/"
+        "jsonName": "test-blog.json",
+        "path": "/test-blog/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "hello-world.json",
-        "path": "/hello-world/"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "my-second-post.json",
-        "path": "/my-second-post/"
+        "jsonName": "blog-i-love-cats.json",
+        "path": "/blog/i-love-cats/"
     },
     {
         "componentChunkName": "component---cache-dev-404-page-js",
@@ -40,5 +33,19 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "new-page.json",
         "path": "/new-page/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "blog-test-blog.json",
+        "path": "/blog//test-blog/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "blog-test-blog.json",
+        "path": "/blog/test-blog/"
     }
 ]

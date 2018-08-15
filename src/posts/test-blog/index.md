@@ -1,7 +1,7 @@
 ---
-title: My Second Post!
+title: My Test Blog!
 date: "2015-05-06T23:46:37.121Z"
-path: "/my-second-post/"
+path: "/blog/test-blog/"
 ---
 
 Wow! I love blogging so much already.
