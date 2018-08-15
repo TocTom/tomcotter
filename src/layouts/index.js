@@ -82,7 +82,6 @@ class Template extends React.Component {
     let rootPath = `/`
 
     let content;
-
     if (location.pathname === rootPath) {
       content = (
         <div id="wrapper">
