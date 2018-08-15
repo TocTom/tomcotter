@@ -10,12 +10,13 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!/home/lachlan/Projects/tomcotter/.cache/json/layout-index.json"),
-  "hi-folks.json": require("gatsby-module-loader?name=path---hi-folks!/home/lachlan/Projects/tomcotter/.cache/json/hi-folks.json"),
-  "hello-world.json": require("gatsby-module-loader?name=path---hello-world!/home/lachlan/Projects/tomcotter/.cache/json/hello-world.json"),
-  "my-second-post.json": require("gatsby-module-loader?name=path---my-second-post!/home/lachlan/Projects/tomcotter/.cache/json/my-second-post.json"),
+  "test-blog.json": require("gatsby-module-loader?name=path---test-blog!/home/lachlan/Projects/tomcotter/.cache/json/test-blog.json"),
+  "blog-i-love-cats.json": require("gatsby-module-loader?name=path---blog-i-love-cats!/home/lachlan/Projects/tomcotter/.cache/json/blog-i-love-cats.json"),
   "dev-404-page.json": require("gatsby-module-loader?name=path---dev-404-page!/home/lachlan/Projects/tomcotter/.cache/json/dev-404-page.json"),
   "index.json": require("gatsby-module-loader?name=path---index!/home/lachlan/Projects/tomcotter/.cache/json/index.json"),
-  "new-page.json": require("gatsby-module-loader?name=path---new-page!/home/lachlan/Projects/tomcotter/.cache/json/new-page.json")
+  "new-page.json": require("gatsby-module-loader?name=path---new-page!/home/lachlan/Projects/tomcotter/.cache/json/new-page.json"),
+  "blog-test-blog.json": require("gatsby-module-loader?name=path---blog-test-blog!/home/lachlan/Projects/tomcotter/.cache/json/blog-test-blog.json"),
+  "blog-test-blog.json": require("gatsby-module-loader?name=path---blog-test-blog!/home/lachlan/Projects/tomcotter/.cache/json/blog-test-blog.json")
 }
 
 exports.layouts = {
